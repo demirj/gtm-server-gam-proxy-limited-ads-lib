@@ -1,1 +1,1 @@
-# gtm-server-gam-proxy-limited-ads-lib
+# Google Tag Manager Server Client-Template for proxying Limited Ads Library
